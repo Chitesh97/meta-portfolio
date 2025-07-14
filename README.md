@@ -4,4 +4,5 @@ This project is developed as part of the Coursera Meta FrontEnd Developer course
 * Yul
 * ChakraUI
 
-Made a change in Readme.md
+Made a change in Readme.md.
+Yet to build great portfolio.
