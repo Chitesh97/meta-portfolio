@@ -5,7 +5,7 @@ This project is developed as part of the Coursera Meta FrontEnd Developer course
 * ChakraUI
 
 ## Preview
-![Portfolio Website](image.png)
+<img width="1211" height="957" alt="portfolio" src="https://github.com/user-attachments/assets/4241cf0f-b6a5-4ba6-a181-ffd6395bff4e" />
 Live version of Meta Portfolio [Check out Live Preview](https://meta-portfolio-ivory.vercel.app/) 
 
 ## Change log
